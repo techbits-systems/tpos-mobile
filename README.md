@@ -4,7 +4,9 @@ Android app releases for T-POS (TechBits Systems).
 
 ## Download
 
-Latest APK: https://github.com/techbits-systems/tpos-mobile/releases/latest
+Direct download (always the latest version): https://github.com/techbits-systems/tpos-mobile/releases/latest/download/TPOS.apk
+
+All versions: https://github.com/techbits-systems/tpos-mobile/releases
 
 Or open the T-POS website, go to the sign-in page and tap "Download the Android app".
 
